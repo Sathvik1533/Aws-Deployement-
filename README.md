@@ -1,4 +1,4 @@
-AWS Deployement
+AWS DEPLOYEMENT PROOF 
 
 AWS Cloud-Hosted Static Portal (Cloud Challenge Winner)
 🏆 Project Overview
