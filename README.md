@@ -1,6 +1,7 @@
 AWS DEPLOYEMENT PROOF 
 
 AWS Cloud-Hosted Static Portal (Cloud Challenge Winner)
+
 🏆 Project Overview
 This repository contains the documentation and architectural details for my successful deployment during a college-level AWS Cloud Challenge, where I secured 3rd Prize. The objective was to move from local development to a live, production-grade cloud environment using a strictly Linux-based workflow.
 
